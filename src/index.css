@@ -40,7 +40,7 @@ footer{
 .footer-copyright{
   display: flex;
   color: blue;
-  justify-content: space-between;
+  justify-content: space-evenly;
   font-weight: 800;
   font-size: 30px;
   margin-top: 10px;
