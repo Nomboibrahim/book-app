@@ -20,7 +20,7 @@ function BookForm() {
     <div className='row'>
     <div className='input-field col s6'>
     <input id='book_category' type="text" className='validate'/>
-    <label htmlFor='book_category'>Bookcategory </label>
+    <label htmlFor='book_category'>Book Category </label>
     </div>
     <div className='input-field col s6'>
     <input id='book_isbn' type="text" className='validate'/>
